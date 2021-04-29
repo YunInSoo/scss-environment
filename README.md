@@ -1,6 +1,6 @@
 # scss-environment
 
-Test environment for scss
+Used environment for scss
 
 # SCSS Masterclass
 
