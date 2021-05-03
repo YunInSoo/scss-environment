@@ -10,6 +10,11 @@ header {
   @media (min-width: 1200px) and (max-width: 1609px) {
     padding: 10vh 0 72px 72px;
   }
+  @media (min-width: 780px) and (max-width: 1200px) {
+    padding: 2vh 0 12px 22px;
+  }
+  @media (max-width: 780px) {
+  }
   position: fixed;
   top: 0;
   left: 0;
@@ -48,7 +53,7 @@ header {
     margin-bottom: 40px;
   }
   nav {
-    width: 90%;
+    width: 80%;
     ul {
       height: 100%;
       align-content: space-between;
